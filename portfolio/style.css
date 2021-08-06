@@ -1,0 +1,38 @@
+h1{
+    color:aquamarine;
+    padding-left: 30px;
+    padding-right:30px;
+}
+*{ 
+ border:solid;
+}
+p{
+    color:aqua;
+}
+.header * {
+    border:solid;
+}
+.header{
+    background-color: #808080;
+    display:flex;
+    justify-content: space-between;
+}
+.description{
+    background-color: #6e6e6e
+}
+.body{
+    background-color: #808080
+}
+a:link{
+    color:blue;
+}
+a:visited{
+    color:blueviolet;
+}
+.menu{
+    margin-right:30px;
+}
+.description{
+    padding-left: 340px;
+    padding-right: 340px;
+}
